@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
-import RouteContext from "../routerContexts/routeContext.js";
-import usePopState from "./customhooks/usePopState.jsx";
+import RouteContext from "../routerContexts/routeContext";
+import usePopState from "./customhooks/usePopState";
 export default function BRouter({
   children
 }) {

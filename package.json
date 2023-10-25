@@ -2,9 +2,9 @@
   "name": "simple-react-router-x",
   "version": "1.0.0",
   "description": "simple react router",
-  "main": "./lib/index.js",
+  "main": "./output/index.js",
   "scripts": {
-    "publish:npm": "mkdir lib &&  babel ./src -d lib --copy-files"
+    "publish:npm": "mkdir output &&  babel ./src -d output --copy-files"
   },
   "repository": {
     "type": "git",

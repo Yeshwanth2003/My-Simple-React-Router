@@ -1,5 +1,5 @@
 import { useContext, useEffect, useRef } from "react";
-import RouteContext from "../routerContexts/routeContext.js";
+import RouteContext from "../routerContexts/routeContext";
 export default function MyLink({
   to,
   noAction,

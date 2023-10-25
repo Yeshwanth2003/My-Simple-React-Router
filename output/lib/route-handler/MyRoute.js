@@ -1,4 +1,4 @@
-import RouteContext from "../routerContexts/routeContext.js";
+import RouteContext from "../routerContexts/routeContext";
 import { isValidElement, useContext } from "react";
 export default function MyRoute({
   component,

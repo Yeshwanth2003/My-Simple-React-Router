@@ -1,5 +1,5 @@
 import { useContext } from "react";
-import RouteContext from "../routerContexts/routeContext.js";
+import RouteContext from "../routerContexts/routeContext";
 export default function useMyNavigate() {
   const {
     setRoute
