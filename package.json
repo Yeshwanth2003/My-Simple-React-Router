@@ -1,6 +1,6 @@
 {
   "name": "simple-react-router-x",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "simple react router",
   "main": "./output/index.js",
   "scripts": {
